@@ -20,14 +20,14 @@ Para rodar o projeto localmente, siga os passos abaixo:
 ### Passos para Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/HenriqueMassagli/AmigoSecreto.git
 
 ## 🎯 Funcionalidades
-Adicionar Amigos: Insira os nomes dos participantes na lista.
+- Adicionar Amigos: Insira os nomes dos participantes na lista.
 
-Sortear Amigo Secreto: Clique no botão "Sortear" para escolher um amigo secreto aleatoriamente.
+- Sortear Amigo Secreto: Clique no botão "Sortear" para escolher um amigo secreto aleatoriamente.
 
-Resetar Lista: Após o sorteio, a lista é automaticamente resetada, permitindo novos sorteios.
+- Resetar Lista: Após o sorteio, a lista é automaticamente resetada, permitindo novos sorteios.
 
 ## 🧩 Desafios Enfrentados
 Durante o desenvolvimento deste projeto, alguns desafios foram superados:
