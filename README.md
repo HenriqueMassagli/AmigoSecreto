@@ -22,14 +22,14 @@ Para rodar o projeto localmente, siga os passos abaixo:
    ```bash
    git clone https://github.com/seu-usuario/amigo-secreto.git
 
-🎯 Funcionalidades
+## 🎯 Funcionalidades
 Adicionar Amigos: Insira os nomes dos participantes na lista.
 
 Sortear Amigo Secreto: Clique no botão "Sortear" para escolher um amigo secreto aleatoriamente.
 
 Resetar Lista: Após o sorteio, a lista é automaticamente resetada, permitindo novos sorteios.
 
-🧩 Desafios Enfrentados
+## 🧩 Desafios Enfrentados
 Durante o desenvolvimento deste projeto, alguns desafios foram superados:
 
 Resetar a Lista Após o Sorteio:
@@ -48,7 +48,7 @@ Sorteio Aleatório:
 
 Implementar a lógica de sorteio aleatório foi um desafio interessante. Utilizei a função Math.random() para gerar um índice aleatório e selecionar o amigo sorteado.
 
-🖥️ Tecnologias Utilizadas
+## 🖥️ Tecnologias Utilizadas
 HTML: Estrutura da página.
 
 CSS: Estilização e layout.
